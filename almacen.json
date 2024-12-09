@@ -1,0 +1,229 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "password": "duoc1234",
+      "email": "usuario1@mail.cl",
+      "rut": "21543851-4",
+      "isactive": true,
+      "image": "",
+      "ramos": [
+        {
+          "id": "001D",
+          "nombre": "ETICA PARA EL TRABAJO",
+          "horario": "13:01 - 14:20",
+          "dia": "Lunes",
+          "sala": "441",
+          "docente": "EDITH HERNANDEZ INOSTROZA"
+        },
+        {
+          "id": "002D",
+          "nombre": "ESTADISTICAS DESCRIPTIVA",
+          "horario": "14:31 - 15:50",
+          "dia": "Lunes",
+          "sala": "224",
+          "docente": "FERNANDA LILIANA ALFARO RAMIREZ"
+        },
+        {
+          "id": "003D",
+          "nombre": "PROGRAMACION DE APLICACIONES MOVILES",
+          "horario": "13:41 - 14:20",
+          "dia": "Martes",
+          "sala": "208",
+          "docente": "VIVIANA SOLEDAD POBLETE LOPEZ"
+        },
+        {
+          "id": "004D",
+          "nombre": "ARQUITECTURA",
+          "horario": "16:01 - 17:20",
+          "dia": "Martes",
+          "sala": "209",
+          "docente": "JULIAN ALEJANDRO CORVALAN CARRASCO"
+        },
+        {
+          "id": "005D",
+          "nombre": "CALIDAD DE SOFTWARE",
+          "horario": "11:31 - 12:50",
+          "dia": "Viernes",
+          "sala": "208",
+          "docente": "FRANCISCO ARTURO VALDIVIESO TAPIA"
+        },
+        {
+          "id": "006D",
+          "nombre": "INGLES INTERMEDIO",
+          "horario": "14:31 - 15:50",
+          "dia": "Viernes",
+          "sala": "221",
+          "docente": "ALEXANER PATRICIO IBARRA SOTO"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "username": "usuario2",
+      "password": "maipu1234",
+      "email": "usuario2@mail.cl",
+      "rut": "19432672-5",
+      "isactive": true,
+      "image": "",
+      "ramos": [
+        {
+          "id": "001D",
+          "nombre": "ETICA PARA EL TRABAJO",
+          "horario": "13:01 - 14:20",
+          "dia": "Lunes",
+          "sala": "441",
+          "docente": "EDITH HERNANDEZ INOSTROZA"
+        },
+        {
+          "id": "002D",
+          "nombre": "ESTADISTICAS DESCRIPTIVA",
+          "horario": "14:31 - 15:50",
+          "dia": "Lunes",
+          "sala": "224",
+          "docente": "FERNANDA LILIANA ALFARO RAMIREZ"
+        },
+        {
+          "id": "003D",
+          "nombre": "PROGRAMACION DE APLICACIONES MOVILES",
+          "horario": "13:41 - 14:20",
+          "dia": "Martes",
+          "sala": "208",
+          "docente": "VIVIANA SOLEDAD POBLETE LOPEZ"
+        },
+        {
+          "id": "004D",
+          "nombre": "ARQUITECTURA",
+          "horario": "16:01 - 17:20",
+          "dia": "Martes",
+          "sala": "209",
+          "docente": "JULIAN ALEJANDRO CORVALAN CARRASCO"
+        },
+        {
+          "id": "005D",
+          "nombre": "CALIDAD DE SOFTWARE",
+          "horario": "11:31 - 12:50",
+          "dia": "Viernes",
+          "sala": "208",
+          "docente": "FRANCISCO ARTURO VALDIVIESO TAPIA"
+        },
+        {
+          "id": "006D",
+          "nombre": "INGLES INTERMEDIO",
+          "horario": "14:31 - 15:50",
+          "dia": "Viernes",
+          "sala": "221",
+          "docente": "ALEXANER PATRICIO IBARRA SOTO"
+        }
+      ]
+    },
+    {
+      "id": "5155",
+      "username": "Benjamin",
+      "email": "benllamin44@gmail.com",
+      "password": "ben88181",
+      "rut": "21351813-5",
+      "isactive": true,
+      "image": ""
+    },
+    {
+      "id": "7abb",
+      "username": "matias",
+      "email": "matias21@gmail.com",
+      "rut": "46375431-1",
+      "password": "ben88181",
+      "isactive": true
+    }
+  ],
+  "ramos": [
+    {
+      "id": "001D",
+      "nombre": "ETICA PARA EL TRABAJO",
+      "horario": "13:01 - 14:20",
+      "dia": "Lunes",
+      "sala": "441",
+      "docente": "EDITH HERNANDEZ INOSTROZA"
+    },
+    {
+      "id": "002D",
+      "nombre": "ESTADISTICAS DESCRIPTIVA",
+      "horario": "14:31 - 15:50",
+      "dia": "Lunes",
+      "sala": "224",
+      "docente": "FERNANDA LILIANA ALFARO RAMIREZ"
+    },
+    {
+      "id": "003D",
+      "nombre": "PROGRAMACION DE APLICACIONES MOVILES",
+      "horario": "13:41 - 14:20",
+      "dia": "Martes",
+      "sala": "208",
+      "docente": "VIVIANA SOLEDAD POBLETE LOPEZ"
+    },
+    {
+      "id": "004D",
+      "nombre": "ARQUITECTURA",
+      "horario": "16:01 - 17:20",
+      "dia": "Martes",
+      "sala": "209",
+      "docente": "JULIAN ALEJANDRO CORVALAN CARRASCO"
+    },
+    {
+      "id": "005D",
+      "nombre": "CALIDAD DE SOFTWARE",
+      "horario": "11:31 - 12:50",
+      "dia": "Viernes",
+      "sala": "208",
+      "docente": "FRANCISCO ARTURO VALDIVIESO TAPIA"
+    },
+    {
+      "id": "006D",
+      "nombre": "INGLES INTERMEDIO",
+      "horario": "14:31 - 15:50",
+      "dia": "Viernes",
+      "sala": "221",
+      "docente": "ALEXANER PATRICIO IBARRA SOTO"
+    }
+  ],
+  "qrs": [
+    {
+      "id": "06e1"
+    },
+    {
+      "id": "d78a",
+      "infoQR": "ID: 1, Usuario: usuario1, RUT: 21543851-4, Asignatura: PROGRAMACION DE APLICACIONES MOVILES, Horario: 13:41 - 14:20, Profesor: VIVIANA SOLEDAD POBLETE LOPEZ, Hora: 8:56:11 p. m.",
+      "qrUrl": "https://api.qrserver.com/v1/create-qr-code/?data=ID%3A%201%2C%20Usuario%3A%20usuario1%2C%20RUT%3A%2021543851-4%2C%20Asignatura%3A%20PROGRAMACION%20DE%20APLICACIONES%20MOVILES%2C%20Horario%3A%2013%3A41%20-%2014%3A20%2C%20Profesor%3A%20VIVIANA%20SOLEDAD%20POBLETE%20LOPEZ%2C%20Hora%3A%208%3A56%3A11%20p.%C2%A0m.&size=300x300"
+    },
+    {
+      "id": "f22b",
+      "infoQR": "ID: 1, Usuario: usuario1, RUT: 21543851-4, Asignatura: CALIDAD DE SOFTWARE, Horario: 11:31 - 12:50, Profesor: FRANCISCO ARTURO VALDIVIESO TAPIA, Hora: 8:56:34 p. m.",
+      "qrUrl": "https://api.qrserver.com/v1/create-qr-code/?data=ID%3A%201%2C%20Usuario%3A%20usuario1%2C%20RUT%3A%2021543851-4%2C%20Asignatura%3A%20CALIDAD%20DE%20SOFTWARE%2C%20Horario%3A%2011%3A31%20-%2012%3A50%2C%20Profesor%3A%20FRANCISCO%20ARTURO%20VALDIVIESO%20TAPIA%2C%20Hora%3A%208%3A56%3A34%20p.%C2%A0m.&size=300x300"
+    },
+    {
+      "id": "726b",
+      "infoQR": "ID: 1, Usuario: usuario1, RUT: 21543851-4, Asignatura: ARQUITECTURA, Horario: 16:01 - 17:20, Profesor: JULIAN ALEJANDRO CORVALAN CARRASCO, Hora: 9:16:10 p. m.",
+      "qrUrl": "https://api.qrserver.com/v1/create-qr-code/?data=ID%3A%201%2C%20Usuario%3A%20usuario1%2C%20RUT%3A%2021543851-4%2C%20Asignatura%3A%20ARQUITECTURA%2C%20Horario%3A%2016%3A01%20-%2017%3A20%2C%20Profesor%3A%20JULIAN%20ALEJANDRO%20CORVALAN%20CARRASCO%2C%20Hora%3A%209%3A16%3A10%20p.%C2%A0m.&size=300x300"
+    },
+    {
+      "id": "dc01",
+      "infoQR": "ID: 1, Usuario: usuario1, RUT: 21543851-4, Asignatura: INGLES INTERMEDIO, Horario: 14:31 - 15:50, Profesor: ALEXANER PATRICIO IBARRA SOTO, Fecha: 2024-12-09",
+      "qrUrl": "https://api.qrserver.com/v1/create-qr-code/?data=ID%3A%201%2C%20Usuario%3A%20usuario1%2C%20RUT%3A%2021543851-4%2C%20Asignatura%3A%20INGLES%20INTERMEDIO%2C%20Horario%3A%2014%3A31%20-%2015%3A50%2C%20Profesor%3A%20ALEXANER%20PATRICIO%20IBARRA%20SOTO%2C%20Fecha%3A%202024-12-09&size=300x300"
+    },
+    {
+      "id": "9700",
+      "infoQR": "ID: 1, Usuario: usuario1, RUT: 21543851-4, Asignatura: CALIDAD DE SOFTWARE, Horario: 11:31 - 12:50, Profesor: FRANCISCO ARTURO VALDIVIESO TAPIA, Fecha: 2024-12-09",
+      "qrUrl": "https://api.qrserver.com/v1/create-qr-code/?data=ID%3A%201%2C%20Usuario%3A%20usuario1%2C%20RUT%3A%2021543851-4%2C%20Asignatura%3A%20CALIDAD%20DE%20SOFTWARE%2C%20Horario%3A%2011%3A31%20-%2012%3A50%2C%20Profesor%3A%20FRANCISCO%20ARTURO%20VALDIVIESO%20TAPIA%2C%20Fecha%3A%202024-12-09&size=300x300"
+    },
+    {
+      "id": "3ef5",
+      "infoQR": "ID: 1, Usuario: usuario1, RUT: 21543851-4, Asignatura: ARQUITECTURA, Horario: 16:01 - 17:20, Profesor: JULIAN ALEJANDRO CORVALAN CARRASCO, Fecha: 2024-12-09",
+      "qrUrl": "https://api.qrserver.com/v1/create-qr-code/?data=ID%3A%201%2C%20Usuario%3A%20usuario1%2C%20RUT%3A%2021543851-4%2C%20Asignatura%3A%20ARQUITECTURA%2C%20Horario%3A%2016%3A01%20-%2017%3A20%2C%20Profesor%3A%20JULIAN%20ALEJANDRO%20CORVALAN%20CARRASCO%2C%20Fecha%3A%202024-12-09&size=300x300"
+    },
+    {
+      "id": "1cb9",
+      "infoQR": "ID: 1, Usuario: usuario1, RUT: 21543851-4, Asignatura: ETICA PARA EL TRABAJO, Horario: 13:01 - 14:20, Profesor: EDITH HERNANDEZ INOSTROZA, Fecha: 2024-12-09",
+      "qrUrl": "https://api.qrserver.com/v1/create-qr-code/?data=ID%3A%201%2C%20Usuario%3A%20usuario1%2C%20RUT%3A%2021543851-4%2C%20Asignatura%3A%20ETICA%20PARA%20EL%20TRABAJO%2C%20Horario%3A%2013%3A01%20-%2014%3A20%2C%20Profesor%3A%20EDITH%20HERNANDEZ%20INOSTROZA%2C%20Fecha%3A%202024-12-09&size=300x300"
+    }
+  ]
+}
